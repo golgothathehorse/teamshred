@@ -1,0 +1,71 @@
+{
+  "exportDate": "2026-01-12T09:46:57.009Z",
+  "tables": [
+    {
+      "name": "users",
+      "count": 9
+    },
+    {
+      "name": "teams",
+      "count": 2
+    },
+    {
+      "name": "user_teams",
+      "count": 9
+    },
+    {
+      "name": "profiles",
+      "count": 8
+    },
+    {
+      "name": "weights",
+      "count": 230
+    },
+    {
+      "name": "body_fat_logs",
+      "count": 11
+    },
+    {
+      "name": "waist_logs",
+      "count": 0
+    },
+    {
+      "name": "banners",
+      "count": 0
+    },
+    {
+      "name": "journal_entries",
+      "count": 50
+    },
+    {
+      "name": "challenges",
+      "count": 0
+    },
+    {
+      "name": "challenge_participants",
+      "count": 0
+    },
+    {
+      "name": "challenge_tasks",
+      "count": 0
+    },
+    {
+      "name": "challenge_entries",
+      "count": 0
+    },
+    {
+      "name": "exercise_types",
+      "count": 9
+    },
+    {
+      "name": "activity_log",
+      "count": 0
+    },
+    {
+      "name": "user_goals",
+      "count": 0,
+      "error": "Table does not exist"
+    }
+  ],
+  "totalRecords": 328
+}

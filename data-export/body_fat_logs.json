@@ -1,0 +1,90 @@
+[
+  {
+    "id": "649e1a15-69ca-4123-95af-11cf4f773506",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "log_date": "2025-03-04T00:00:00.000Z",
+    "bf_percent": "19.7",
+    "inserted_at": "2025-11-15T22:17:24.650Z",
+    "comment": null
+  },
+  {
+    "id": "88e16fdd-0fac-4c87-a0fe-90e6912f19a2",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "log_date": "2025-11-21T00:00:00.000Z",
+    "bf_percent": "25.2",
+    "inserted_at": "2025-11-21T09:19:53.834Z",
+    "comment": null
+  },
+  {
+    "id": "774a4677-c34b-411c-a9e5-1644fb711927",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "log_date": "2025-11-21T00:00:00.000Z",
+    "bf_percent": "21.8",
+    "inserted_at": "2025-11-25T06:18:27.216Z",
+    "comment": null
+  },
+  {
+    "id": "b2bfe692-a562-4989-ab28-8e56b8da1acb",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "log_date": "2025-11-28T00:00:00.000Z",
+    "bf_percent": "21.3",
+    "inserted_at": "2025-11-27T19:28:46.717Z",
+    "comment": null
+  },
+  {
+    "id": "d7e8a0fc-d951-422b-ad9d-d4e066351a2c",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "log_date": "2025-12-05T00:00:00.000Z",
+    "bf_percent": "21.4",
+    "inserted_at": "2025-12-04T19:17:02.010Z",
+    "comment": null
+  },
+  {
+    "id": "7a5a24e9-288d-4428-b401-dd6ec2840ab6",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "log_date": "2025-12-12T00:00:00.000Z",
+    "bf_percent": "21.7",
+    "inserted_at": "2025-12-11T20:13:53.791Z",
+    "comment": null
+  },
+  {
+    "id": "9479068b-9eed-4b0e-894a-bbdaef831cc6",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "log_date": "2025-12-19T00:00:00.000Z",
+    "bf_percent": "22.5",
+    "inserted_at": "2025-12-18T20:26:32.054Z",
+    "comment": null
+  },
+  {
+    "id": "1e065efb-1a81-4a6e-b2da-4166362efc78",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "log_date": "2025-12-26T00:00:00.000Z",
+    "bf_percent": "23.9",
+    "inserted_at": "2025-12-25T20:53:46.041Z",
+    "comment": null
+  },
+  {
+    "id": "9612fbf0-103e-4855-90f5-9e75db4d7fd2",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "log_date": "2026-01-09T00:00:00.000Z",
+    "bf_percent": "20.6",
+    "inserted_at": "2026-01-09T03:14:44.425Z",
+    "comment": null
+  },
+  {
+    "id": "136f30ec-9f7d-4f66-b068-90998fec4031",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "log_date": "2026-01-10T00:00:00.000Z",
+    "bf_percent": "22.1",
+    "inserted_at": "2026-01-09T21:55:53.735Z",
+    "comment": null
+  },
+  {
+    "id": "3f6af030-9aed-4043-9ec5-523a63fad31c",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "log_date": "2026-01-09T00:00:00.000Z",
+    "bf_percent": "24.7",
+    "inserted_at": "2026-01-10T19:17:34.667Z",
+    "comment": null
+  }
+]

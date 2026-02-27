@@ -1,0 +1,2302 @@
+[
+  {
+    "id": "e5d9fe11-a835-4402-abe8-d5d12eb2d921",
+    "user_id": "93ac9811-d3cf-4901-9f20-e162957b884b",
+    "weigh_date": "2025-11-07T00:00:00.000Z",
+    "weight_kg": "100.00",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-14T19:09:21.177Z",
+    "comment": null
+  },
+  {
+    "id": "68e85df0-16ca-41ec-87a4-9155c837d486",
+    "user_id": "93ac9811-d3cf-4901-9f20-e162957b884b",
+    "weigh_date": "2025-11-10T00:00:00.000Z",
+    "weight_kg": "103.00",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-14T19:09:22.678Z",
+    "comment": null
+  },
+  {
+    "id": "f61124ee-8863-4841-b022-9053c7818f87",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-11-07T00:00:00.000Z",
+    "weight_kg": "81.2",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T03:55:07.452Z",
+    "comment": null
+  },
+  {
+    "id": "83ff3e75-1e7c-4f96-be2f-9c2faae0c950",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-09-14T00:00:00.000Z",
+    "weight_kg": "74.4",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T08:52:51.528Z",
+    "comment": null
+  },
+  {
+    "id": "bec90a53-a2f8-49b7-ad77-5a2a5ecfa11b",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-04-15T00:00:00.000Z",
+    "weight_kg": "84.2",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T08:59:45.203Z",
+    "comment": null
+  },
+  {
+    "id": "9ac991b6-995c-4399-bfce-bfa0fcc86352",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-05-03T00:00:00.000Z",
+    "weight_kg": "82.9",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:00:25.340Z",
+    "comment": null
+  },
+  {
+    "id": "e850f5c0-9f0a-4d7b-accc-83aa65a6207e",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-05-10T00:00:00.000Z",
+    "weight_kg": "84",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:03:38.226Z",
+    "comment": null
+  },
+  {
+    "id": "cdddc7f0-994e-4cf9-bd35-96ecb608251c",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-05-17T00:00:00.000Z",
+    "weight_kg": "82.4",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:04:18.335Z",
+    "comment": null
+  },
+  {
+    "id": "02a8cff1-e201-48b5-b7a4-d9d7e6a5af78",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-05-24T00:00:00.000Z",
+    "weight_kg": "81.5",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:05:22.573Z",
+    "comment": null
+  },
+  {
+    "id": "49381036-c1d3-489f-aca8-7cb7c2b8fe9b",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-05-31T00:00:00.000Z",
+    "weight_kg": "81.4",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:06:22.075Z",
+    "comment": null
+  },
+  {
+    "id": "ffc7c3a9-a29e-42ea-89a3-0e1bb57987ba",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-06-14T00:00:00.000Z",
+    "weight_kg": "81.4",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:07:51.522Z",
+    "comment": null
+  },
+  {
+    "id": "dd19c8f7-a788-4bd1-b660-e0fddf09310d",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-06-18T00:00:00.000Z",
+    "weight_kg": "80.9",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T09:08:25.707Z",
+    "comment": null
+  },
+  {
+    "id": "b9657c81-be95-4067-a7aa-f70460d9ea03",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2020-06-01T00:00:00.000Z",
+    "weight_kg": "119",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-15T21:37:30.983Z",
+    "comment": null
+  },
+  {
+    "id": "714c1c6b-de85-4cc3-a069-d032be421e66",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2021-02-18T00:00:00.000Z",
+    "weight_kg": "112.5",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-15T21:38:19.571Z",
+    "comment": null
+  },
+  {
+    "id": "6432d91d-d11b-43b0-8821-f8f15c14e2e5",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2023-11-11T00:00:00.000Z",
+    "weight_kg": "94.9",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-15T21:38:59.380Z",
+    "comment": null
+  },
+  {
+    "id": "0e6822a5-65da-4149-96f7-ace49321bf9e",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2024-02-28T00:00:00.000Z",
+    "weight_kg": "90",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-15T21:39:31.138Z",
+    "comment": null
+  },
+  {
+    "id": "13360897-dc9b-439d-87a4-cc0215a2b724",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2024-03-15T00:00:00.000Z",
+    "weight_kg": "87.6",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-15T21:39:57.854Z",
+    "comment": null
+  },
+  {
+    "id": "859c9ac1-73d7-423b-b90a-82ab4cba67d9",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2024-05-04T00:00:00.000Z",
+    "weight_kg": "84.6",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-15T21:40:28.765Z",
+    "comment": null
+  },
+  {
+    "id": "6e947dfd-58b6-4613-a39c-fd93cacb2470",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2024-06-19T00:00:00.000Z",
+    "weight_kg": "82.8",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-15T21:40:52.634Z",
+    "comment": null
+  },
+  {
+    "id": "91991f54-b576-4d56-83a1-b41dbe78dfd1",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2024-07-18T00:00:00.000Z",
+    "weight_kg": "80.1",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-15T21:41:25.440Z",
+    "comment": null
+  },
+  {
+    "id": "760806e6-5f30-4be1-9cb1-e5157e973970",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2024-08-09T00:00:00.000Z",
+    "weight_kg": "78.8",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-15T21:42:13.726Z",
+    "comment": null
+  },
+  {
+    "id": "1eef167a-8eab-4d1b-bcbb-d2435e9341af",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2024-10-04T00:00:00.000Z",
+    "weight_kg": "77.5",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-15T22:11:37.326Z",
+    "comment": null
+  },
+  {
+    "id": "ad363409-9824-4086-9001-71b84a7f57a9",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2024-11-22T00:00:00.000Z",
+    "weight_kg": "77.2",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-15T22:12:17.732Z",
+    "comment": null
+  },
+  {
+    "id": "3f5c597c-ab12-4eea-b232-cafddd786ed6",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-01-06T00:00:00.000Z",
+    "weight_kg": "80",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-15T22:13:16.479Z",
+    "comment": null
+  },
+  {
+    "id": "a8560599-e6b7-43d8-a08e-24fe254a0f46",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-03-31T00:00:00.000Z",
+    "weight_kg": "78.4",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-15T22:14:07.959Z",
+    "comment": null
+  },
+  {
+    "id": "c292c125-8efc-43c0-8921-8bfab288d2a5",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-06-23T00:00:00.000Z",
+    "weight_kg": "80.5",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-15T22:14:30.766Z",
+    "comment": null
+  },
+  {
+    "id": "8eb1434c-6660-4c51-8005-2d16709212b1",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-07-14T00:00:00.000Z",
+    "weight_kg": "78.1",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-15T22:14:49.816Z",
+    "comment": null
+  },
+  {
+    "id": "3fa712a8-15e5-4cb0-a75e-16cf0d589241",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-08-01T00:00:00.000Z",
+    "weight_kg": "78.4",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-15T22:15:04.762Z",
+    "comment": null
+  },
+  {
+    "id": "f8a64ce9-1c4f-4bcf-a759-5070f7475c18",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-09-26T00:00:00.000Z",
+    "weight_kg": "78",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-15T22:15:35.120Z",
+    "comment": null
+  },
+  {
+    "id": "aaefbe9d-ebee-44ff-a150-159cbaa6bddc",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-11-14T00:00:00.000Z",
+    "weight_kg": "81.1",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-15T22:15:53.734Z",
+    "comment": null
+  },
+  {
+    "id": "dc2e7078-785a-4e80-94a2-8cba56e07122",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-11-14T00:00:00.000Z",
+    "weight_kg": "85.2",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T03:48:29.333Z",
+    "comment": null
+  },
+  {
+    "id": "9dc22afc-3951-4ccd-9654-8fb7e4a034ee",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-11-10T00:00:00.000Z",
+    "weight_kg": "84.5",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T03:48:43.513Z",
+    "comment": null
+  },
+  {
+    "id": "ff7f4291-91cf-49a6-a9be-6f014e961c2a",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-11-08T00:00:00.000Z",
+    "weight_kg": "85.3",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T03:48:57.033Z",
+    "comment": null
+  },
+  {
+    "id": "0ca973bc-e7ac-41a0-8b84-058f516d4843",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-11-01T00:00:00.000Z",
+    "weight_kg": "85.1",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T03:49:06.705Z",
+    "comment": null
+  },
+  {
+    "id": "9692096a-b607-4d3d-8e96-93e51aea03b8",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-11-14T00:00:00.000Z",
+    "weight_kg": "102.6",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T03:49:51.969Z",
+    "comment": null
+  },
+  {
+    "id": "6a7e6cf9-002b-4d26-a5a7-46859a149316",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-11-10T00:00:00.000Z",
+    "weight_kg": "103.3",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T03:50:03.343Z",
+    "comment": null
+  },
+  {
+    "id": "248c28ee-c3f8-47f4-a390-e308e3ed582e",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-11-07T00:00:00.000Z",
+    "weight_kg": "101",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T03:50:14.098Z",
+    "comment": null
+  },
+  {
+    "id": "536876df-9c7b-4caa-997f-6a47a116d556",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-11-03T00:00:00.000Z",
+    "weight_kg": "103",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T03:50:21.767Z",
+    "comment": null
+  },
+  {
+    "id": "06657c15-fc3f-4de8-9706-a585096fb983",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-11-11T00:00:00.000Z",
+    "weight_kg": "116.3",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T03:51:16.986Z",
+    "comment": null
+  },
+  {
+    "id": "4653ee1c-0c83-4750-8b6e-00af25d2f74e",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-11-03T00:00:00.000Z",
+    "weight_kg": "116.8",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T03:51:28.382Z",
+    "comment": null
+  },
+  {
+    "id": "1c255f1c-a067-432e-af97-cb98610962bf",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-11-14T00:00:00.000Z",
+    "weight_kg": "83.7",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T03:52:39.503Z",
+    "comment": null
+  },
+  {
+    "id": "0a42bb0a-f8b0-4fc7-8b58-32c526132b01",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-11-11T00:00:00.000Z",
+    "weight_kg": "84.2",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T03:52:48.728Z",
+    "comment": null
+  },
+  {
+    "id": "7c1a9c23-f555-4edf-8157-a6dace068878",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-11-10T00:00:00.000Z",
+    "weight_kg": "85.3",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T03:53:02.822Z",
+    "comment": null
+  },
+  {
+    "id": "27482545-4c42-4144-a72d-5d337e5ce1f0",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-11-07T00:00:00.000Z",
+    "weight_kg": "86.1",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T03:53:14.673Z",
+    "comment": null
+  },
+  {
+    "id": "0238cf8d-c0a1-4f6c-8d68-22ce2f092656",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-11-03T00:00:00.000Z",
+    "weight_kg": "86.1",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T03:53:22.812Z",
+    "comment": null
+  },
+  {
+    "id": "36eedcca-753b-49f5-b48e-6ce61599ecda",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-11-14T00:00:00.000Z",
+    "weight_kg": "76.1",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T03:53:50.289Z",
+    "comment": null
+  },
+  {
+    "id": "93ae3d7a-e255-422b-960c-443773f0664b",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-11-10T00:00:00.000Z",
+    "weight_kg": "78.6",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T03:54:02.076Z",
+    "comment": null
+  },
+  {
+    "id": "ec085d07-1161-4530-b843-7a6aba21696e",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-11-07T00:00:00.000Z",
+    "weight_kg": "76.4",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T03:54:14.801Z",
+    "comment": null
+  },
+  {
+    "id": "1a02d7d3-173f-441c-9056-8b60b0e9a630",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-11-03T00:00:00.000Z",
+    "weight_kg": "77.4",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T03:54:24.333Z",
+    "comment": null
+  },
+  {
+    "id": "dd54af71-5c3f-4bb6-8905-83020a854522",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-11-10T00:00:00.000Z",
+    "weight_kg": "83.3",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T03:54:57.709Z",
+    "comment": null
+  },
+  {
+    "id": "0df51822-e377-431d-8ce9-2b4953f189f8",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-06-28T00:00:00.000Z",
+    "weight_kg": "80.4",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:09:24.085Z",
+    "comment": null
+  },
+  {
+    "id": "7f423cbc-0ea8-42b4-b544-d7bebc7b69d5",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-07-03T00:00:00.000Z",
+    "weight_kg": "79.7",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T09:10:06.074Z",
+    "comment": null
+  },
+  {
+    "id": "fd48936c-9991-4a43-bdef-d7eded5d0a2c",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-07-05T00:00:00.000Z",
+    "weight_kg": "79.3",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:10:36.758Z",
+    "comment": null
+  },
+  {
+    "id": "551d34b4-31af-4d2c-a5a9-ea55ebd04b30",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-07-22T00:00:00.000Z",
+    "weight_kg": "82.3",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T09:11:08.431Z",
+    "comment": null
+  },
+  {
+    "id": "e77403c5-cf0f-42ed-8867-2fa5c1418058",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-08-02T00:00:00.000Z",
+    "weight_kg": "79.8",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:12:08.557Z",
+    "comment": null
+  },
+  {
+    "id": "c854fffd-6458-4a99-b877-c4a4290ef33b",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-08-16T00:00:00.000Z",
+    "weight_kg": "77.9",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:12:52.674Z",
+    "comment": null
+  },
+  {
+    "id": "1e2368a3-1579-4b9d-896b-3dd601310475",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-08-26T00:00:00.000Z",
+    "weight_kg": "77.1",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T09:13:53.156Z",
+    "comment": null
+  },
+  {
+    "id": "a1c0dedd-fb90-46d8-8f1d-460b470543d7",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-09-30T00:00:00.000Z",
+    "weight_kg": "80.2",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T09:16:48.771Z",
+    "comment": null
+  },
+  {
+    "id": "7300c8f8-086c-44e4-b6eb-d5dfb1367f94",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-10-04T00:00:00.000Z",
+    "weight_kg": "80.6",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:17:32.159Z",
+    "comment": null
+  },
+  {
+    "id": "51d05430-940f-4962-93b1-f170a471155c",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-08-30T00:00:00.000Z",
+    "weight_kg": "75.9",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:18:22.709Z",
+    "comment": null
+  },
+  {
+    "id": "dbe4753b-6091-424f-a7ea-f4857d458be8",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-11-08T00:00:00.000Z",
+    "weight_kg": "78.8",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:19:17.960Z",
+    "comment": null
+  },
+  {
+    "id": "86e6362b-84d7-4c51-ae57-c9be61ef3df7",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-12-06T00:00:00.000Z",
+    "weight_kg": "78.8",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:20:03.819Z",
+    "comment": null
+  },
+  {
+    "id": "d58f86bb-e5cb-46f7-8415-12708200ff2c",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-01-03T00:00:00.000Z",
+    "weight_kg": "83",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:21:19.137Z",
+    "comment": null
+  },
+  {
+    "id": "a4c5cbdb-51d9-405a-bfb7-838848e95440",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-01-10T00:00:00.000Z",
+    "weight_kg": "81.9",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:21:41.965Z",
+    "comment": null
+  },
+  {
+    "id": "ace099e3-15f4-4cb7-87ea-bddd883cbaa4",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-01-24T00:00:00.000Z",
+    "weight_kg": "82.3",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:22:37.550Z",
+    "comment": null
+  },
+  {
+    "id": "367cab2f-2090-4d40-99f0-6a4b0fb1a76c",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-01-31T00:00:00.000Z",
+    "weight_kg": "81.7",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:23:13.486Z",
+    "comment": null
+  },
+  {
+    "id": "f4b056f0-e6ef-4714-9c73-e40f8eff6495",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-02-21T00:00:00.000Z",
+    "weight_kg": "81.2",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:24:32.275Z",
+    "comment": null
+  },
+  {
+    "id": "0e529cae-71e8-49b3-a6af-9c5594e3f60e",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-02-28T00:00:00.000Z",
+    "weight_kg": "80.3",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:25:08.407Z",
+    "comment": null
+  },
+  {
+    "id": "038e6a11-547b-40e7-b63e-fd5efd51a9da",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-03-14T00:00:00.000Z",
+    "weight_kg": "79.4",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:26:03.804Z",
+    "comment": null
+  },
+  {
+    "id": "d92ce22e-4596-483e-98f9-7e78cb3ded8a",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-03-21T00:00:00.000Z",
+    "weight_kg": "79.2",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:26:39.605Z",
+    "comment": null
+  },
+  {
+    "id": "2727f4de-92b0-4d24-bb9a-ccef8f622b0f",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-04-11T00:00:00.000Z",
+    "weight_kg": "80",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:27:39.993Z",
+    "comment": null
+  },
+  {
+    "id": "73737b4a-060e-4a5b-9af5-0f42a751fb80",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-05-09T00:00:00.000Z",
+    "weight_kg": "82.6",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:28:32.464Z",
+    "comment": null
+  },
+  {
+    "id": "5b1e3a19-2f68-4759-8b18-227802c74e4b",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-05-30T00:00:00.000Z",
+    "weight_kg": "79.5",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:28:59.411Z",
+    "comment": null
+  },
+  {
+    "id": "4920abf4-021f-44fd-94c5-0daacea518e0",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-06-27T00:00:00.000Z",
+    "weight_kg": "77.1",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:30:01.812Z",
+    "comment": null
+  },
+  {
+    "id": "609edee8-75a5-4c04-b560-4c3ddd3a6cff",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-07-18T00:00:00.000Z",
+    "weight_kg": "77.3",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:30:41.140Z",
+    "comment": null
+  },
+  {
+    "id": "ebff5afe-5655-4c0a-85f6-2e3f01cf1c12",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-07-25T00:00:00.000Z",
+    "weight_kg": "76.7",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:31:08.146Z",
+    "comment": null
+  },
+  {
+    "id": "3f4f32b5-9227-4240-9e66-92c98a2f226a",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-08-06T00:00:00.000Z",
+    "weight_kg": "75.5",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T09:31:50.282Z",
+    "comment": null
+  },
+  {
+    "id": "cea8edf7-24b7-42d9-bbe0-667be4851b53",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-08-08T00:00:00.000Z",
+    "weight_kg": "75.4",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:32:26.912Z",
+    "comment": null
+  },
+  {
+    "id": "f30cdb21-6d96-4b01-8553-92312b5b0510",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-08-21T00:00:00.000Z",
+    "weight_kg": "75.2",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T09:33:10.692Z",
+    "comment": null
+  },
+  {
+    "id": "c7fba7d6-a64a-47fa-90ac-877bfd26c087",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-08-29T00:00:00.000Z",
+    "weight_kg": "74.9",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:33:51.251Z",
+    "comment": null
+  },
+  {
+    "id": "cc53b693-13f1-47ec-abd0-1ea8fbf9ce50",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-09-05T00:00:00.000Z",
+    "weight_kg": "74.6",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:34:23.766Z",
+    "comment": null
+  },
+  {
+    "id": "8860f8d9-8a17-4ed2-bdd6-46a06dc12fdb",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-09-26T00:00:00.000Z",
+    "weight_kg": "74.4",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:34:53.440Z",
+    "comment": null
+  },
+  {
+    "id": "3884d534-6b07-4446-8f9b-ecac968810f7",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-10-17T00:00:00.000Z",
+    "weight_kg": "76.2",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:35:23.001Z",
+    "comment": null
+  },
+  {
+    "id": "30a6b203-df62-4276-b57c-ea1963e018a8",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2023-10-11T00:00:00.000Z",
+    "weight_kg": "91.3",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T09:38:26.987Z",
+    "comment": null
+  },
+  {
+    "id": "ca018c9c-7508-49ea-943e-de50aa611f45",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2022-02-07T00:00:00.000Z",
+    "weight_kg": "94.8",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T09:40:01.994Z",
+    "comment": null
+  },
+  {
+    "id": "c4d7b19f-467f-4010-a366-d9236fb479d6",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2023-11-02T00:00:00.000Z",
+    "weight_kg": "87.8",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T09:42:20.154Z",
+    "comment": null
+  },
+  {
+    "id": "55785c38-530e-45c3-acd8-51f215d58a90",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2023-11-30T00:00:00.000Z",
+    "weight_kg": "83.4",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T09:43:51.382Z",
+    "comment": null
+  },
+  {
+    "id": "dd66e934-5abb-4da2-9236-ac64190a76a0",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-11-14T00:00:00.000Z",
+    "weight_kg": "115.6",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T22:26:11.836Z",
+    "comment": null
+  },
+  {
+    "id": "81f0f53c-c4a5-44f3-b96a-e5a989305967",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2023-12-05T00:00:00.000Z",
+    "weight_kg": "86.4",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T09:45:12.452Z",
+    "comment": null
+  },
+  {
+    "id": "482615ff-1757-4098-a25d-7f3005149e44",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2023-12-20T00:00:00.000Z",
+    "weight_kg": "85.1",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T09:45:41.159Z",
+    "comment": null
+  },
+  {
+    "id": "dc40f9c6-36b0-4379-bd48-e83421a603e9",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2024-01-19T00:00:00.000Z",
+    "weight_kg": "86.2",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:46:43.674Z",
+    "comment": null
+  },
+  {
+    "id": "23eb321e-fd1f-466d-b867-3f1c152cb3cc",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-01-08T00:00:00.000Z",
+    "weight_kg": "94.2",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T09:52:43.152Z",
+    "comment": null
+  },
+  {
+    "id": "f0b6026c-e692-4f60-9864-d0800b7fdcd2",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-02-03T00:00:00.000Z",
+    "weight_kg": "92.4",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T09:54:24.589Z",
+    "comment": null
+  },
+  {
+    "id": "ac0fc779-e4e4-4ff9-867e-b5e481f4293c",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-03-03T00:00:00.000Z",
+    "weight_kg": "87.6",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T09:55:05.559Z",
+    "comment": null
+  },
+  {
+    "id": "90b9b1cd-2898-491d-8892-74a19a2c8f4c",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-04-04T00:00:00.000Z",
+    "weight_kg": "85.2",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:55:30.559Z",
+    "comment": null
+  },
+  {
+    "id": "f8d553ec-50ba-4f83-8aa5-3b14768d89ce",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-05-02T00:00:00.000Z",
+    "weight_kg": "87.8",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:55:48.220Z",
+    "comment": null
+  },
+  {
+    "id": "0a48bdb8-4b7a-47e6-9d66-3e7730284216",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-06-06T00:00:00.000Z",
+    "weight_kg": "86.2",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:56:08.434Z",
+    "comment": null
+  },
+  {
+    "id": "410279dc-dd9d-4649-aa1f-c4bdd7d40902",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-07-13T00:00:00.000Z",
+    "weight_kg": "92.5",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T09:56:34.361Z",
+    "comment": null
+  },
+  {
+    "id": "011155c8-280b-45b5-844e-fd861ccd9df0",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-08-01T00:00:00.000Z",
+    "weight_kg": "88.7",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:57:02.157Z",
+    "comment": null
+  },
+  {
+    "id": "7707e915-2df6-4ad6-a99c-f17ffae09a19",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-09-05T00:00:00.000Z",
+    "weight_kg": "85.8",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:58:28.762Z",
+    "comment": null
+  },
+  {
+    "id": "edc2d711-3c06-485c-ab00-3404e4b41015",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-10-03T00:00:00.000Z",
+    "weight_kg": "86.6",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T09:59:16.214Z",
+    "comment": null
+  },
+  {
+    "id": "ad798120-0518-4d02-a412-4b48ec16d150",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-11-24T00:00:00.000Z",
+    "weight_kg": "103.4",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-23T21:03:56.438Z",
+    "comment": null
+  },
+  {
+    "id": "428021f9-ec73-4596-8fb3-300d036be01d",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-10-17T00:00:00.000Z",
+    "weight_kg": "104.7",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T10:34:46.084Z",
+    "comment": null
+  },
+  {
+    "id": "76845cf9-5e17-47d9-bf07-f0f2ec42c344",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-11-24T00:00:00.000Z",
+    "weight_kg": "116.35",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-23T22:34:03.169Z",
+    "comment": null
+  },
+  {
+    "id": "ee70cc58-45b7-45e6-852e-b7425cf6df0a",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-10-24T00:00:00.000Z",
+    "weight_kg": "102.5",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T10:39:37.525Z",
+    "comment": null
+  },
+  {
+    "id": "5a7f7f63-a432-4128-833c-aac32d2d9471",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-09-27T00:00:00.000Z",
+    "weight_kg": "104",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T10:45:00.363Z",
+    "comment": null
+  },
+  {
+    "id": "06d0a2fa-660d-4f6e-9ab7-856549dc228f",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-11-25T00:00:00.000Z",
+    "weight_kg": "81.9",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-25T01:37:19.215Z",
+    "comment": "on 44 hours of fasting"
+  },
+  {
+    "id": "f5c33526-dc9f-4876-b0f4-eaf7b32a481d",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-10-27T00:00:00.000Z",
+    "weight_kg": "104",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T10:45:21.616Z",
+    "comment": null
+  },
+  {
+    "id": "70cdcd31-7a1d-483f-8c3e-ebf8b20e356b",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-11-16T00:00:00.000Z",
+    "weight_kg": "104",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T10:47:29.109Z",
+    "comment": null
+  },
+  {
+    "id": "d8800192-32af-4714-af2c-94426adf9f39",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-11-28T00:00:00.000Z",
+    "weight_kg": "85.7",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-27T18:50:23.336Z",
+    "comment": null
+  },
+  {
+    "id": "14fe8762-4197-4537-a7d1-296b5feeb54b",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-11-28T00:00:00.000Z",
+    "weight_kg": "114.35",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-27T19:20:12.076Z",
+    "comment": null
+  },
+  {
+    "id": "b24287f3-e504-4c2f-ab19-6dcd0f18e81a",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2024-12-06T00:00:00.000Z",
+    "weight_kg": "75.5",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T12:02:26.259Z",
+    "comment": null
+  },
+  {
+    "id": "ce098e05-b726-49c3-96ea-8b060fba719b",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-11-28T00:00:00.000Z",
+    "weight_kg": "75.6",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-27T19:28:27.160Z",
+    "comment": "On track for a PB tilt"
+  },
+  {
+    "id": "107cb229-bff9-4565-919e-7ab746aa5678",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-11-17T00:00:00.000Z",
+    "weight_kg": "82.9",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T19:16:14.913Z",
+    "comment": null
+  },
+  {
+    "id": "5501ddf0-231e-487e-a0a7-8a87ac8ff215",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-11-28T00:00:00.000Z",
+    "weight_kg": "83.8",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-27T20:44:40.794Z",
+    "comment": "Solid week\nOztag, soccer, cardio, 3 x gym sesh"
+  },
+  {
+    "id": "6c88eabc-8be1-432b-b405-e474b072117a",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-11-17T00:00:00.000Z",
+    "weight_kg": "85.1",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-17T18:55:10.363Z",
+    "comment": null
+  },
+  {
+    "id": "c9cd34d7-0690-4b81-b3b3-974ce74def5a",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-11-17T00:00:00.000Z",
+    "weight_kg": "78.9",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T20:02:21.565Z",
+    "comment": null
+  },
+  {
+    "id": "3805ca78-7432-4228-aa7c-666e3e136909",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-11-17T00:00:00.000Z",
+    "weight_kg": "102.3",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T20:12:54.216Z",
+    "comment": null
+  },
+  {
+    "id": "cf30d353-365a-499c-afd9-30c9682720ff",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-09-22T00:00:00.000Z",
+    "weight_kg": "104.5",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T21:26:04.241Z",
+    "comment": null
+  },
+  {
+    "id": "6270e80a-170c-4db8-b805-18159c28c910",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-09-19T00:00:00.000Z",
+    "weight_kg": "103.7",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T21:28:56.277Z",
+    "comment": null
+  },
+  {
+    "id": "8d79556c-9c7e-47b8-b13d-a1dfe0dd739d",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-09-15T00:00:00.000Z",
+    "weight_kg": "104",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T21:30:32.875Z",
+    "comment": null
+  },
+  {
+    "id": "dd28fe5c-81dc-4bb6-b67e-1b0f0fbcedb7",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-09-12T00:00:00.000Z",
+    "weight_kg": "104.4",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T21:31:50.370Z",
+    "comment": null
+  },
+  {
+    "id": "88e42dc2-9fd8-4280-9e96-16eaf84d90bd",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-09-08T00:00:00.000Z",
+    "weight_kg": "105.7",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T21:32:32.512Z",
+    "comment": null
+  },
+  {
+    "id": "3e58ca93-781b-42a4-8398-59a596e11d62",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-09-01T00:00:00.000Z",
+    "weight_kg": "105",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T21:34:36.324Z",
+    "comment": null
+  },
+  {
+    "id": "c609c934-7c32-4ec6-9ebc-2b6a8e4d5d98",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-08-29T00:00:00.000Z",
+    "weight_kg": "105",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T21:35:18.053Z",
+    "comment": null
+  },
+  {
+    "id": "b93a04b6-ff6a-4846-809e-cfe7ae5e6ca9",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-08-25T00:00:00.000Z",
+    "weight_kg": "105.7",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T21:35:56.285Z",
+    "comment": null
+  },
+  {
+    "id": "1cd17647-f22b-4ba3-a646-3e70aa5faedf",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2024-04-15T00:00:00.000Z",
+    "weight_kg": "134.45",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T22:19:30.288Z",
+    "comment": null
+  },
+  {
+    "id": "3cb7897b-0be1-40b3-baf3-d82429315148",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2024-04-29T00:00:00.000Z",
+    "weight_kg": "133.25",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T22:19:51.420Z",
+    "comment": null
+  },
+  {
+    "id": "736eba28-de61-4460-98cc-99f1d99caf66",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2024-09-17T00:00:00.000Z",
+    "weight_kg": "121.1",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T22:22:22.335Z",
+    "comment": null
+  },
+  {
+    "id": "f54be150-659e-40f7-9042-853d61fd4b32",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-01-24T00:00:00.000Z",
+    "weight_kg": "120.8",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T22:23:33.121Z",
+    "comment": null
+  },
+  {
+    "id": "43d1c903-dbeb-461d-8d2c-98cf037823e4",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-02-03T00:00:00.000Z",
+    "weight_kg": "120.35",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T22:24:45.077Z",
+    "comment": null
+  },
+  {
+    "id": "466adfa7-21f9-48de-9a6f-f4c21241a527",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-02-24T00:00:00.000Z",
+    "weight_kg": "120.7",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T22:25:06.626Z",
+    "comment": null
+  },
+  {
+    "id": "52142f65-aa18-4f69-b0b3-ab6d6b1c172c",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-06-20T00:00:00.000Z",
+    "weight_kg": "119.2",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-16T22:25:28.353Z",
+    "comment": null
+  },
+  {
+    "id": "8ced1d48-994e-4140-88ee-804143831a66",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-06-26T00:00:00.000Z",
+    "weight_kg": "118.6",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T22:25:47.014Z",
+    "comment": null
+  },
+  {
+    "id": "56ffba98-63ed-400a-a51d-352cadeb4256",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-11-28T00:00:00.000Z",
+    "weight_kg": "102.3",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-27T21:39:41.652Z",
+    "comment": null
+  },
+  {
+    "id": "76c58728-2cad-47ba-b911-e00adee2d138",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-11-17T00:00:00.000Z",
+    "weight_kg": "118.45",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-16T22:58:53.894Z",
+    "comment": null
+  },
+  {
+    "id": "f92e269c-d164-42b6-baf2-cbc78014c1ad",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-11-18T00:00:00.000Z",
+    "weight_kg": "117",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-17T19:26:10.852Z",
+    "comment": null
+  },
+  {
+    "id": "c24a7cc0-7cf0-4d5b-9ff4-719f56cf4a91",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-11-17T00:00:00.000Z",
+    "weight_kg": "84.7",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-17T20:02:12.781Z",
+    "comment": null
+  },
+  {
+    "id": "64ab85b0-2f40-442e-94a8-0f9998d8bf0f",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-11-21T00:00:00.000Z",
+    "weight_kg": "85.8",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-20T18:53:46.875Z",
+    "comment": null
+  },
+  {
+    "id": "75b55fa0-30a4-4d8c-a1de-84274047bbd3",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-11-21T00:00:00.000Z",
+    "weight_kg": "83.8",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-20T19:07:46.161Z",
+    "comment": null
+  },
+  {
+    "id": "71155dfd-317a-4900-a9ad-34e1c1141a13",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-11-21T00:00:00.000Z",
+    "weight_kg": "77",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-20T19:11:32.001Z",
+    "comment": null
+  },
+  {
+    "id": "3114cef2-1e64-469f-8111-19a343d0af43",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-11-21T00:00:00.000Z",
+    "weight_kg": "81.5",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-20T19:24:13.035Z",
+    "comment": null
+  },
+  {
+    "id": "e88ba447-2400-487c-82e2-0f9d1cab811a",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-11-21T00:00:00.000Z",
+    "weight_kg": "101.6",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-20T20:10:04.599Z",
+    "comment": null
+  },
+  {
+    "id": "82e5c4fd-7130-4e72-9ddc-e9169aefd862",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-11-21T00:00:00.000Z",
+    "weight_kg": "114.45",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-20T20:23:12.603Z",
+    "comment": null
+  },
+  {
+    "id": "4cfd0e6d-7469-4338-9ffa-7bdcddb597b0",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-11-22T00:00:00.000Z",
+    "weight_kg": "114.3",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-21T21:21:30.406Z",
+    "comment": null
+  },
+  {
+    "id": "ad16f2bb-5773-4a91-ae5d-c32d4207d58f",
+    "user_id": "b7480d88-4731-4175-a5d0-3445de2eff59",
+    "weigh_date": "2025-11-23T00:00:00.000Z",
+    "weight_kg": "93.5",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-11-22T23:30:31.912Z",
+    "comment": null
+  },
+  {
+    "id": "ffee18e5-c241-4004-bc23-e73dabee5e8e",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-11-24T00:00:00.000Z",
+    "weight_kg": "84.5",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-23T18:46:35.846Z",
+    "comment": null
+  },
+  {
+    "id": "743faa04-0ada-4e2d-bd4f-cb3980b7eb51",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-11-24T00:00:00.000Z",
+    "weight_kg": "85",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-23T18:52:26.367Z",
+    "comment": null
+  },
+  {
+    "id": "b9a1e5aa-526f-40a2-af37-650d94645491",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-11-24T00:00:00.000Z",
+    "weight_kg": "85.3",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-23T19:53:12.469Z",
+    "comment": null
+  },
+  {
+    "id": "8aec73e2-451f-4ca7-99af-81e65d1f5916",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-11-24T00:00:00.000Z",
+    "weight_kg": "77.2",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-23T20:00:48.518Z",
+    "comment": null
+  },
+  {
+    "id": "1a5fc856-8ca7-4a77-8b0a-5356f7b19808",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-11-28T00:00:00.000Z",
+    "weight_kg": "80.6",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-27T21:51:38.926Z",
+    "comment": null
+  },
+  {
+    "id": "e8c7a33d-c30c-4202-837c-f1c3fb7d7e7f",
+    "user_id": "b7480d88-4731-4175-a5d0-3445de2eff59",
+    "weigh_date": "2025-11-28T00:00:00.000Z",
+    "weight_kg": "92.2",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-11-27T22:27:17.763Z",
+    "comment": null
+  },
+  {
+    "id": "c2f3e646-9a69-4b07-acba-051b090c96b2",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-12-01T00:00:00.000Z",
+    "weight_kg": "84.8",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-30T18:57:18.611Z",
+    "comment": null
+  },
+  {
+    "id": "54f9813a-4bc5-4f60-b124-7c11a6c18bd4",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-12-01T00:00:00.000Z",
+    "weight_kg": "77.5",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-30T20:15:04.181Z",
+    "comment": "Not a good weekend"
+  },
+  {
+    "id": "5d1a1760-3696-4806-82f6-eadd9e675cc0",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-12-01T00:00:00.000Z",
+    "weight_kg": "100.5",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-30T20:16:52.722Z",
+    "comment": null
+  },
+  {
+    "id": "7ba5c246-51ba-436e-b43a-5f6aa4705ffa",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-12-01T00:00:00.000Z",
+    "weight_kg": "117.95",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-30T20:22:29.590Z",
+    "comment": null
+  },
+  {
+    "id": "4e3ebf47-e72a-4d5f-8010-ed99da73468f",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-12-01T00:00:00.000Z",
+    "weight_kg": "81.6",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-30T20:39:00.720Z",
+    "comment": null
+  },
+  {
+    "id": "1b6fe388-2c33-4a2e-a02a-16246fa0e243",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-12-01T00:00:00.000Z",
+    "weight_kg": "84.9",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-11-30T20:47:55.104Z",
+    "comment": null
+  },
+  {
+    "id": "c1592f67-7ba3-42e3-85b0-2be392451068",
+    "user_id": "b7480d88-4731-4175-a5d0-3445de2eff59",
+    "weigh_date": "2025-12-02T00:00:00.000Z",
+    "weight_kg": "92.1",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-12-02T04:09:13.239Z",
+    "comment": null
+  },
+  {
+    "id": "8df0eefb-aacd-4202-a25e-a249097f70ac",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-12-05T00:00:00.000Z",
+    "weight_kg": "85",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-04T18:51:15.761Z",
+    "comment": null
+  },
+  {
+    "id": "f4a86bda-88a8-462d-b422-b8e4a3e7a130",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-12-05T00:00:00.000Z",
+    "weight_kg": "76.2",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-04T19:16:49.968Z",
+    "comment": "Up on last week."
+  },
+  {
+    "id": "b56f3f56-76ef-4b00-9ad7-0d06b60211e2",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-12-05T00:00:00.000Z",
+    "weight_kg": "84.4",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-04T19:58:18.337Z",
+    "comment": null
+  },
+  {
+    "id": "e998c4b8-7957-481f-8076-83090f885d64",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-12-05T00:00:00.000Z",
+    "weight_kg": "115.55",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-04T20:37:59.125Z",
+    "comment": "Injured back early in week. Low exercise week."
+  },
+  {
+    "id": "14f3e85d-bb38-4360-a57f-9b87168867da",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-12-05T00:00:00.000Z",
+    "weight_kg": "82.5",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-04T20:56:03.827Z",
+    "comment": null
+  },
+  {
+    "id": "b879e23a-69dc-4ee6-8f0f-cabd8a1dbdf4",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-12-08T00:00:00.000Z",
+    "weight_kg": "85.9",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-07T18:55:56.510Z",
+    "comment": null
+  },
+  {
+    "id": "f567e025-8220-4875-b176-fecdc9c8d54d",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-12-08T00:00:00.000Z",
+    "weight_kg": "81.3",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-07T19:23:20.415Z",
+    "comment": null
+  },
+  {
+    "id": "1db79fd7-4822-414b-ae6f-a50ee1cb4744",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-12-08T00:00:00.000Z",
+    "weight_kg": "103",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-07T20:07:41.041Z",
+    "comment": null
+  },
+  {
+    "id": "6da1c620-6768-49cb-9cde-0eac659d6fad",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-12-05T00:00:00.000Z",
+    "weight_kg": "101.8",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-07T20:09:45.966Z",
+    "comment": null
+  },
+  {
+    "id": "95359138-14b7-4708-875d-ea7771e13d24",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-12-08T00:00:00.000Z",
+    "weight_kg": "84.6",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-07T20:25:15.504Z",
+    "comment": null
+  },
+  {
+    "id": "5a908265-5a50-45b2-935c-9fe72e837b3a",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-12-08T00:00:00.000Z",
+    "weight_kg": "77.9",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-07T20:53:21.748Z",
+    "comment": "Pretty bad weekend"
+  },
+  {
+    "id": "1ed90ede-c445-4c9b-8d39-0919f19fcd4f",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-12-08T00:00:00.000Z",
+    "weight_kg": "117.35",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-07T22:59:04.624Z",
+    "comment": null
+  },
+  {
+    "id": "ab2a9325-4f47-4965-8edb-5369aea0250f",
+    "user_id": "b7480d88-4731-4175-a5d0-3445de2eff59",
+    "weigh_date": "2025-12-05T00:00:00.000Z",
+    "weight_kg": "91.8",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-08T00:21:42.003Z",
+    "comment": null
+  },
+  {
+    "id": "8d146578-e204-43c3-ae82-fb7035430956",
+    "user_id": "b7480d88-4731-4175-a5d0-3445de2eff59",
+    "weigh_date": "2025-12-09T00:00:00.000Z",
+    "weight_kg": "91.8",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-12-09T01:50:52.285Z",
+    "comment": null
+  },
+  {
+    "id": "cdff54f3-46ea-47a0-89e8-d3f0ec090711",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-12-12T00:00:00.000Z",
+    "weight_kg": "85.5",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-11T18:55:53.011Z",
+    "comment": null
+  },
+  {
+    "id": "cc6bafd4-0c4d-4a54-8665-a9cd97d96db0",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-12-12T00:00:00.000Z",
+    "weight_kg": "85.5",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-11T19:24:32.932Z",
+    "comment": null
+  },
+  {
+    "id": "c83ec81f-859c-4220-b974-2f630564d919",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-12-12T00:00:00.000Z",
+    "weight_kg": "76.5",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-11T20:13:41.247Z",
+    "comment": "Slightly up"
+  },
+  {
+    "id": "7f642525-4706-407c-9fb6-965047f727ef",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-12-12T00:00:00.000Z",
+    "weight_kg": "80.8",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-11T20:28:24.890Z",
+    "comment": null
+  },
+  {
+    "id": "a655f51a-dc97-454d-a179-40dcfe8d2c5e",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-12-12T00:00:00.000Z",
+    "weight_kg": "115.7",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-11T20:45:16.352Z",
+    "comment": null
+  },
+  {
+    "id": "ef722516-ff49-4b98-91dd-1416b4154110",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-12-12T00:00:00.000Z",
+    "weight_kg": "102",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-11T20:59:06.104Z",
+    "comment": null
+  },
+  {
+    "id": "c856eafc-efcb-4ea1-a8ed-0a3078b23a08",
+    "user_id": "b7480d88-4731-4175-a5d0-3445de2eff59",
+    "weigh_date": "2025-12-12T00:00:00.000Z",
+    "weight_kg": "91.6",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-12T04:26:51.842Z",
+    "comment": null
+  },
+  {
+    "id": "f82db60d-f59a-411e-b5ad-75c0a1dbd825",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-12-15T00:00:00.000Z",
+    "weight_kg": "84.9",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-14T18:55:34.905Z",
+    "comment": null
+  },
+  {
+    "id": "3a344a5b-7319-40cd-bc68-13c10ad63835",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-12-15T00:00:00.000Z",
+    "weight_kg": "85.2",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-14T20:02:53.566Z",
+    "comment": null
+  },
+  {
+    "id": "93e9c5a3-461b-42e5-96b5-6259f0415fe6",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-12-15T00:00:00.000Z",
+    "weight_kg": "78.4",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-14T20:30:29.783Z",
+    "comment": "Going the wrong way , quickly"
+  },
+  {
+    "id": "5c90385c-b3dc-4384-afd9-4514c085ae39",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-12-15T00:00:00.000Z",
+    "weight_kg": "116.8",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-14T21:05:09.026Z",
+    "comment": null
+  },
+  {
+    "id": "c16bb156-d758-48d3-a9e4-8f246179e18f",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-12-15T00:00:00.000Z",
+    "weight_kg": "82.5",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-14T21:32:42.132Z",
+    "comment": null
+  },
+  {
+    "id": "d157832b-f52c-4c6b-bfe7-2535c6dad387",
+    "user_id": "b7480d88-4731-4175-a5d0-3445de2eff59",
+    "weigh_date": "2025-12-16T00:00:00.000Z",
+    "weight_kg": "91.6",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-12-16T03:50:26.241Z",
+    "comment": null
+  },
+  {
+    "id": "70337906-d0b9-45c5-b1d6-1155e1ccf803",
+    "user_id": "deb98556-6807-4750-86d8-c25e3582f311",
+    "weigh_date": "2025-12-17T00:00:00.000Z",
+    "weight_kg": "88.7",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-12-16T23:57:16.898Z",
+    "comment": "Fat cunt, 6kg up on 4 months ago"
+  },
+  {
+    "id": "829529bc-0569-4522-9214-00a630620d34",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-12-19T00:00:00.000Z",
+    "weight_kg": "80.7",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-18T19:00:47.595Z",
+    "comment": null
+  },
+  {
+    "id": "a383d881-0753-4be9-a836-40ee7f3fa313",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-12-19T00:00:00.000Z",
+    "weight_kg": "101.2",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-18T19:35:31.108Z",
+    "comment": null
+  },
+  {
+    "id": "ad5a43e1-c613-429d-b03d-0b594c76ae63",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-12-19T00:00:00.000Z",
+    "weight_kg": "84.6",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-18T19:58:51.732Z",
+    "comment": null
+  },
+  {
+    "id": "36aee63e-0ea0-493f-96c9-0fcedf5b6fc9",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-12-19T00:00:00.000Z",
+    "weight_kg": "78.2",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-18T20:26:19.556Z",
+    "comment": "About the worst week I've ever had ."
+  },
+  {
+    "id": "9c07f79d-ceab-4fd5-a192-41196cd26a35",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-12-19T00:00:00.000Z",
+    "weight_kg": "84.6",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-18T20:48:29.588Z",
+    "comment": null
+  },
+  {
+    "id": "891a1ee8-1d0b-4d67-8cfd-608bcf431d96",
+    "user_id": "deb98556-6807-4750-86d8-c25e3582f311",
+    "weigh_date": "2025-12-19T00:00:00.000Z",
+    "weight_kg": "87.8",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-18T20:58:48.645Z",
+    "comment": null
+  },
+  {
+    "id": "2d028a2d-10dd-4aca-a03b-a7885a9f7e5b",
+    "user_id": "b7480d88-4731-4175-a5d0-3445de2eff59",
+    "weigh_date": "2025-12-19T00:00:00.000Z",
+    "weight_kg": "90.9",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-18T21:28:28.443Z",
+    "comment": null
+  },
+  {
+    "id": "ccc5fcca-865a-4b05-9a99-96f6d7fb5ed1",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-12-22T00:00:00.000Z",
+    "weight_kg": "80.8",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-21T18:03:02.833Z",
+    "comment": null
+  },
+  {
+    "id": "30a78b22-db74-4ded-ab98-17789109f766",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2025-12-22T00:00:00.000Z",
+    "weight_kg": "103.5",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-21T20:01:49.442Z",
+    "comment": null
+  },
+  {
+    "id": "1afe5a54-efd6-4f00-84bf-cf47aaa28501",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2025-12-22T00:00:00.000Z",
+    "weight_kg": "84.4",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-21T20:48:19.984Z",
+    "comment": null
+  },
+  {
+    "id": "080d6dad-6399-47ed-bea6-defd883328fe",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-12-22T00:00:00.000Z",
+    "weight_kg": "78",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-21T21:25:37.547Z",
+    "comment": null
+  },
+  {
+    "id": "7403621b-998a-421c-a449-c80327695ab4",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-12-22T00:00:00.000Z",
+    "weight_kg": "85.3",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-21T22:17:12.858Z",
+    "comment": null
+  },
+  {
+    "id": "10731cc0-8648-424a-941a-ed7c7916ff74",
+    "user_id": "deb98556-6807-4750-86d8-c25e3582f311",
+    "weigh_date": "2025-12-22T00:00:00.000Z",
+    "weight_kg": "89.1",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-21T22:49:13.508Z",
+    "comment": null
+  },
+  {
+    "id": "996ef95f-bc51-4eb4-98d5-43af2807dd8f",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-12-23T00:00:00.000Z",
+    "weight_kg": "115.55",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-12-23T04:40:54.675Z",
+    "comment": null
+  },
+  {
+    "id": "e7b334ef-d71d-4346-b3b7-974d7622ca9a",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-12-25T00:00:00.000Z",
+    "weight_kg": "84",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2025-12-24T21:57:49.593Z",
+    "comment": null
+  },
+  {
+    "id": "2a2147a6-35c7-4d0e-8bd6-7f6bdc50a5f1",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2025-12-26T00:00:00.000Z",
+    "weight_kg": "80.4",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-25T20:52:51.609Z",
+    "comment": "Bloody Horrendous"
+  },
+  {
+    "id": "4a97c615-8e3f-4a99-9432-9e26751db30e",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-12-26T00:00:00.000Z",
+    "weight_kg": "118.25",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-25T21:30:16.531Z",
+    "comment": null
+  },
+  {
+    "id": "7b7c3137-a57b-4bab-a102-9a2ae8971504",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-12-26T00:00:00.000Z",
+    "weight_kg": "85.1",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-25T22:56:56.231Z",
+    "comment": null
+  },
+  {
+    "id": "65b9cdc4-a172-4111-831b-a108d0ec5397",
+    "user_id": "deb98556-6807-4750-86d8-c25e3582f311",
+    "weigh_date": "2025-12-26T00:00:00.000Z",
+    "weight_kg": "89.1",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2025-12-25T23:37:01.112Z",
+    "comment": null
+  },
+  {
+    "id": "d4b3bbb6-2cb6-4f38-b12e-9e84d714441c",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2025-12-29T00:00:00.000Z",
+    "weight_kg": "82.7",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-28T21:37:13.641Z",
+    "comment": null
+  },
+  {
+    "id": "d6c895f2-3f28-4fd7-9f2c-9c4e8ede705a",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2025-12-29T00:00:00.000Z",
+    "weight_kg": "84.2",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-28T22:46:15.339Z",
+    "comment": null
+  },
+  {
+    "id": "1462c3cb-71d6-45d7-a17c-b56988104149",
+    "user_id": "deb98556-6807-4750-86d8-c25e3582f311",
+    "weigh_date": "2025-12-29T00:00:00.000Z",
+    "weight_kg": "87.1",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-28T23:07:28.291Z",
+    "comment": null
+  },
+  {
+    "id": "7ee0506a-ea1c-40bb-9a48-1dad568b0368",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2025-12-29T00:00:00.000Z",
+    "weight_kg": "118.8",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2025-12-29T00:44:21.037Z",
+    "comment": null
+  },
+  {
+    "id": "fb3158de-9afb-4a6e-a18f-6e89d9bf312b",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2026-01-02T00:00:00.000Z",
+    "weight_kg": "81.4",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2026-01-01T19:05:24.508Z",
+    "comment": null
+  },
+  {
+    "id": "925ab20f-bcd5-4e4c-ab63-03a20f8c3282",
+    "user_id": "deb98556-6807-4750-86d8-c25e3582f311",
+    "weigh_date": "2026-01-02T00:00:00.000Z",
+    "weight_kg": "87.8",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2026-01-01T22:00:40.319Z",
+    "comment": null
+  },
+  {
+    "id": "47fdc6dc-7931-41cb-a618-e13cc4b89365",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2026-01-02T00:00:00.000Z",
+    "weight_kg": "83.9",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2026-01-01T23:10:12.651Z",
+    "comment": null
+  },
+  {
+    "id": "86bac550-50a4-40b5-bb8f-3ced915a4281",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2026-01-02T00:00:00.000Z",
+    "weight_kg": "117.85",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2026-01-02T03:04:36.563Z",
+    "comment": null
+  },
+  {
+    "id": "3222cf3b-56bf-4848-968b-8e2fa80d3b60",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2026-01-05T00:00:00.000Z",
+    "weight_kg": "81.9",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2026-01-04T19:15:35.553Z",
+    "comment": null
+  },
+  {
+    "id": "ef79eb92-25c3-43f5-8c97-7c915e50bc3d",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2026-01-05T00:00:00.000Z",
+    "weight_kg": "85.6",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2026-01-04T20:31:07.234Z",
+    "comment": null
+  },
+  {
+    "id": "5d33a084-a62e-44f0-8175-3c84543bd4be",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2026-01-05T00:00:00.000Z",
+    "weight_kg": "103.3",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2026-01-04T21:01:02.479Z",
+    "comment": null
+  },
+  {
+    "id": "c56c73b6-0c53-470e-840a-7d016d2f7d64",
+    "user_id": "deb98556-6807-4750-86d8-c25e3582f311",
+    "weigh_date": "2026-01-05T00:00:00.000Z",
+    "weight_kg": "88.5",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2026-01-04T21:32:38.061Z",
+    "comment": null
+  },
+  {
+    "id": "5531e1a9-f712-4a6e-a1ec-7f58955e84ce",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2026-01-05T00:00:00.000Z",
+    "weight_kg": "120.25",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2026-01-04T22:26:48.507Z",
+    "comment": null
+  },
+  {
+    "id": "911e58c0-b625-4943-a3dc-5698e0ef2a73",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2026-01-05T00:00:00.000Z",
+    "weight_kg": "84.3",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2026-01-04T22:46:56.385Z",
+    "comment": null
+  },
+  {
+    "id": "0217409a-b312-4fa4-af64-70212e122a8a",
+    "user_id": "b7480d88-4731-4175-a5d0-3445de2eff59",
+    "weigh_date": "2026-01-05T00:00:00.000Z",
+    "weight_kg": "90.9",
+    "is_monday": true,
+    "is_friday": false,
+    "inserted_at": "2026-01-04T23:09:42.845Z",
+    "comment": null
+  },
+  {
+    "id": "74c6d3bc-c991-4387-a810-240ea444beed",
+    "user_id": "b7480d88-4731-4175-a5d0-3445de2eff59",
+    "weigh_date": "2025-12-23T00:00:00.000Z",
+    "weight_kg": "90.6",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2026-01-04T23:10:33.258Z",
+    "comment": null
+  },
+  {
+    "id": "754277fb-8269-4ac3-8663-e684d3fab2bc",
+    "user_id": "7d921803-163b-4f6e-827f-4c3a94ba9efb",
+    "weigh_date": "2026-01-09T00:00:00.000Z",
+    "weight_kg": "81.8",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2026-01-08T19:09:34.691Z",
+    "comment": null
+  },
+  {
+    "id": "ef1f0daa-820b-45ee-9b2e-9d8b6fe07f42",
+    "user_id": "deb98556-6807-4750-86d8-c25e3582f311",
+    "weigh_date": "2026-01-09T00:00:00.000Z",
+    "weight_kg": "87.4",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2026-01-08T19:09:44.745Z",
+    "comment": null
+  },
+  {
+    "id": "30821ec3-b37a-4cb0-8db8-c315d2746fea",
+    "user_id": "af9af8c9-1bd1-4095-ba46-cb65802a3dd5",
+    "weigh_date": "2026-01-09T00:00:00.000Z",
+    "weight_kg": "85.2",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2026-01-08T20:09:51.882Z",
+    "comment": null
+  },
+  {
+    "id": "7cb47549-4f97-456c-b3b1-073e92512af3",
+    "user_id": "df5cbdd3-3bb6-4d12-b3fe-0c341c992263",
+    "weigh_date": "2026-01-09T00:00:00.000Z",
+    "weight_kg": "102.5",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2026-01-08T20:54:04.946Z",
+    "comment": null
+  },
+  {
+    "id": "6b483733-fa81-4a22-a4b1-32aab1a8ca3c",
+    "user_id": "c1aba5a0-5705-48d7-a026-91568234ffc2",
+    "weigh_date": "2026-01-09T00:00:00.000Z",
+    "weight_kg": "85",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2026-01-08T22:29:52.596Z",
+    "comment": null
+  },
+  {
+    "id": "74bb7848-ebc8-4042-a554-ba7bbfc25642",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2026-01-09T00:00:00.000Z",
+    "weight_kg": "119",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2026-01-09T03:14:23.307Z",
+    "comment": "2pm weigh in, new Hume Health scales"
+  },
+  {
+    "id": "61d4c4e8-6552-4941-b147-db2cad374acd",
+    "user_id": "cbbbd805-7e35-4f3b-af54-0723f66d2704",
+    "weigh_date": "2026-01-10T00:00:00.000Z",
+    "weight_kg": "116.4",
+    "is_monday": false,
+    "is_friday": false,
+    "inserted_at": "2026-01-09T21:54:03.669Z",
+    "comment": null
+  },
+  {
+    "id": "c97e9928-9515-44e5-a5a7-6cf4a6c4d09f",
+    "user_id": "e5508f8f-32ca-4811-a848-5a4b3445615b",
+    "weigh_date": "2026-01-09T00:00:00.000Z",
+    "weight_kg": "82.4",
+    "is_monday": false,
+    "is_friday": true,
+    "inserted_at": "2026-01-10T19:16:56.122Z",
+    "comment": "Got worse"
+  }
+]

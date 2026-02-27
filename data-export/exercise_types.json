@@ -1,0 +1,83 @@
+[
+  {
+    "id": "eaf52e85-37d4-4249-b101-d1ac7ff0f51b",
+    "name": "Pushups",
+    "unit_type": "reps",
+    "unit_label": "reps",
+    "is_active": true,
+    "sort_order": 1,
+    "created_at": "2026-01-09T03:38:33.225Z"
+  },
+  {
+    "id": "35e27dcd-ab47-4cb3-86d9-a3fdf6909de2",
+    "name": "Chinups",
+    "unit_type": "reps",
+    "unit_label": "reps",
+    "is_active": true,
+    "sort_order": 2,
+    "created_at": "2026-01-09T03:38:33.225Z"
+  },
+  {
+    "id": "3db570f0-444c-40f1-aeae-712f0b4870ff",
+    "name": "Dips",
+    "unit_type": "reps",
+    "unit_label": "reps",
+    "is_active": true,
+    "sort_order": 3,
+    "created_at": "2026-01-09T03:38:33.225Z"
+  },
+  {
+    "id": "5eab3765-6d4c-49fc-9e24-0eaa1873d4a7",
+    "name": "Ab work",
+    "unit_type": "reps",
+    "unit_label": "reps",
+    "is_active": true,
+    "sort_order": 4,
+    "created_at": "2026-01-09T03:38:33.225Z"
+  },
+  {
+    "id": "20ae6b62-80b6-4682-abf9-447933f8ca45",
+    "name": "Calories Burned",
+    "unit_type": "calories",
+    "unit_label": "cal",
+    "is_active": true,
+    "sort_order": 8,
+    "created_at": "2026-01-09T03:38:33.225Z"
+  },
+  {
+    "id": "167acae1-c12b-494f-a060-a92d200496e9",
+    "name": "Run",
+    "unit_type": "distance",
+    "unit_label": "km",
+    "is_active": true,
+    "sort_order": 5,
+    "created_at": "2026-01-09T03:38:33.225Z"
+  },
+  {
+    "id": "c1d82295-c782-4b77-9754-3d49509bd51e",
+    "name": "Ride",
+    "unit_type": "distance",
+    "unit_label": "km",
+    "is_active": true,
+    "sort_order": 6,
+    "created_at": "2026-01-09T03:38:33.225Z"
+  },
+  {
+    "id": "b825dc8d-a5fb-4450-860b-17db34da3ca3",
+    "name": "Swim",
+    "unit_type": "distance",
+    "unit_label": "km",
+    "is_active": true,
+    "sort_order": 7,
+    "created_at": "2026-01-09T03:38:33.225Z"
+  },
+  {
+    "id": "bb2621a8-33f6-435b-902d-f12aedddd4dd",
+    "name": "Burpees",
+    "unit_type": "reps",
+    "unit_label": "reps",
+    "is_active": true,
+    "sort_order": 9,
+    "created_at": "2026-01-11T19:23:09.971Z"
+  }
+]
