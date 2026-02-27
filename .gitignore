@@ -5,3 +5,16 @@ server/public
 vite.config.ts.*
 *.tar.gz
 .next
+txt
+node_modules/
+.next/
+dist/
+build/
+.cache/
+.local/
+.config/
+.upm/
+*.log
+*.tmp
+*.zip
+*.tsbuildinfo
