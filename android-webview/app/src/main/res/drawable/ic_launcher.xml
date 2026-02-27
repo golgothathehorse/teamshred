@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/teamshred_blue" />
+    <item>
+        <shape android:shape="oval">
+            <size android:width="72dp" android:height="72dp" />
+            <solid android:color="#FFFFFF" />
+        </shape>
+    </item>
+    <item android:gravity="center">
+        <shape android:shape="rectangle">
+            <size android:width="28dp" android:height="10dp" />
+            <solid android:color="@color/teamshred_blue" />
+            <corners android:radius="3dp" />
+        </shape>
+    </item>
+</layer-list>
